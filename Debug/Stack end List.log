@@ -1,0 +1,19 @@
+﻿  SingleList.cpp
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.cpp(16,16): error C2039: 'value': is not a member of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.h(4): message : see declaration of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.cpp(16,29): error C2039: 'value': is not a member of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.h(4): message : see declaration of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.cpp(17,15): error C2039: 'next': is not a member of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.h(4): message : see declaration of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.cpp(17,27): error C2039: 'next': is not a member of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.h(4): message : see declaration of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.cpp(36,16): error C2039: 'value': is not a member of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.h(4): message : see declaration of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.cpp(36,29): error C2039: 'value': is not a member of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.h(4): message : see declaration of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.cpp(37,15): error C2039: 'next': is not a member of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.h(4): message : see declaration of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.cpp(37,27): error C2039: 'next': is not a member of 'SingleList'
+C:\Users\pavel\source\repos\Stack end List\Stack end List\SingleList.h(4): message : see declaration of 'SingleList'
+  Source.cpp
+  Generating Code...
